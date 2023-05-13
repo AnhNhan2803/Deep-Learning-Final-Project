@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/CMakeFiles/ELF2UF2Build
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/CMakeFiles/ELF2UF2Build.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/CMakeFiles/ELF2UF2Build-complete.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule

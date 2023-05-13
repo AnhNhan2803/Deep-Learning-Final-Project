@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild-complete.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/nhan/gitwork/tflite-micro/tensorflow/lite/micro/examples/imu_fall_detection/pico_w/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule

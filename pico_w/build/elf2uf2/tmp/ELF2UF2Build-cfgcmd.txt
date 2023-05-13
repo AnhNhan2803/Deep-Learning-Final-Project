@@ -1,0 +1,1 @@
+cmd='/home/nhan/.local/lib/python3.9/site-packages/cmake/data/bin/cmake;-DCMAKE_MAKE_PROGRAM:FILEPATH=/usr/bin/gmake;-GUnix Makefiles;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'
